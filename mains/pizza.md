@@ -1,3 +1,4 @@
 # New Pizza recipe
 
-# Ingredients
+## Ingredients
+
